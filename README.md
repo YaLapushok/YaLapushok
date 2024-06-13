@@ -1,5 +1,5 @@
 <h2> Привет, я Миша! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/gifs/analog-lofi-karborn-l3vRiiHGOMr8L4MQo" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZtc3Azc2xxd2NhMW04MTIwbW1hZnQ4OHAwdXk2N20xaDNlcDdhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RMwgs5kZqkRyhF24KK/giphy.gif" width="230">
 
 [![Telegram: MyCockMuchBiggerThanYours](https://img.shields.io/badge/telegram-blue)](t.me/MyCockMuchBiggerThanYours)
 [![VK: Мамылов Михаил](https://img.shields.io/badge/VK-blue)](https://vk.com/tvoy_trash)

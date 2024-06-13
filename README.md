@@ -1,4 +1,4 @@
-<h2> Привет, я Миша! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Привет, я Миша! <img src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif?cid=ecf05e47ob6lz977n0f04444kpfqem0ydoxfsqfrnto4mhda&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="0"></h2>
 <img align='right' src="https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif?cid=790b7611b9mxkh96gs5flxtkhwltwtuej99c3pdr4x0wdam2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 
 [![Telegram: MyCockMuchBiggerThanYours](https://img.shields.io/badge/telegram-blue)](t.me/MyCockMuchBiggerThanYours)
@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord--thesilliest-gray)]
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
+### <img src="https://media.giphy.com/media/BvC7TmEd7odbi/giphy.gif?cid=ecf05e47nwnqjuif1nvz21n5efbfvft4tyb1b10p2xaocts9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60"> Немного обо мне...
 
 ```javascript
 const Misha = {
@@ -18,6 +18,6 @@ const Misha = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>До новых встреч, друг мой</b> :)</em>
+<b>До новых встреч, друг мой</b> :)
 
 ---

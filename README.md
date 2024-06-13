@@ -1,7 +1,7 @@
 <h2> Привет, я Миша! <img src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif?cid=ecf05e47ob6lz977n0f04444kpfqem0ydoxfsqfrnto4mhda&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="0"></h2>
 <img align='right' src="https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif?cid=790b7611b9mxkh96gs5flxtkhwltwtuej99c3pdr4x0wdam2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 
-[![Telegram: MyCockMuchBiggerThanYours](https://img.shields.io/badge/telegram-blue)](t.me/MyCockMuchBiggerThanYours)
+[![Telegram: MyCockMuchBiggerThanYours](https://img.shields.io/badge/telegram-blue)](https://web.telegram.org/a/#1825145195)
 [![VK: Мамылов Михаил](https://img.shields.io/badge/VK-blue)](https://vk.com/tvoy_trash)
 [![Discord](https://img.shields.io/badge/Discord--thesilliest-gray)]
 

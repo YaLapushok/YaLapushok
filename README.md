@@ -10,10 +10,10 @@
 
 ```javascript
 const Misha = {
-  code: [Python, Java],
-  tools: [selenium,telebot,aiogram,disnake],
-  achievment: ["Deadline(Тинькофф),Росатом"],
-  social-skills: "Продаю бананы, людей. Шучу, не бананы"
+  code: ["Python", "Java"],
+  tools: ["selenium", "telebot", "aiogram", "disnake"],
+  achievement: ["Deadline (Тинькофф), Росатом"],
+  socialSkills: "Продаю бананы, людей. Шучу, не бананы",
   challenge: "Не пить кофе в течение 50 дней в году"
 }
 ```
@@ -21,3 +21,4 @@ const Misha = {
 <b>До новых встреч</b> :)
 
 ---
+

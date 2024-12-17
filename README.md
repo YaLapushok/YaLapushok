@@ -10,11 +10,11 @@
 
 ```javascript
 const Misha = {
-  code: ["Python", "Java"],
-  tools: ["selenium", "telebot", "aiogram", "disnake"],
-  achievement: ["Deadline (Тинькофф), Росатом"],
-  socialSkills: "Продаю бананы, людей. Шучу, не бананы",
-  challenge: "Не пить кофе в течение 50 дней в году"
+  code: ["Python", "Java", "C"],
+  tools: ["Yolo", "cv2", "telebot", "aiogram", "disnake"],
+  achievement: ["ICPC", "Росатом", "Changellenge Сбер"],
+  socialSkills: "Если б я имел коня - это был бы номер. Если б конь имел меня - я б наверно помер.",
+  specialties: "ML, computer vision, manual testing, telegram bots"
 }
 ```
 

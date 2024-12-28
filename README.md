@@ -10,7 +10,7 @@
 
 ```javascript
 const Misha = {
-  code: ["Python", "Java", "C"],
+  languages: ["Python", "Java", "C"],
   tools: ["Yolo", "cv2", "telebot", "aiogram", "disnake"],
   achievement: ["ICPC", "Росатом", "Changellenge Сбер"],
   socialSkills: "Если б я имел коня - это был бы номер. Если б конь имел меня - я б наверно помер.",

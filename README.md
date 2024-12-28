@@ -14,7 +14,7 @@ const Misha = {
   tools: ["Yolo", "cv2", "telebot", "aiogram", "disnake"],
   achievement: ["ICPC", "Росатом", "Changellenge Сбер"],
   socialSkills: "Если б я имел коня - это был бы номер. Если б конь имел меня - я б наверно помер.",
-  specialties: "ML, computer vision, manual testing, telegram bots"
+  specialties: ["ML", "computer vision", "manual testing", "telegram bots"]
 }
 ```
 

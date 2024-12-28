@@ -1,4 +1,4 @@
-<h2> Привет, я Миша! <img src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif?cid=ecf05e47ob6lz977n0f04444kpfqem0ydoxfsqfrnto4mhda&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="0"></h2>
+## Привет, я Миша! <img src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif?cid=ecf05e47ob6lz977n0f04444kpfqem0ydoxfsqfrnto4mhda&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="0">
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFvZGJpNmpseTZjOTNlcnNicmZldnltZzR2bXhjdGtrbWhzbXl0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fha1cv4Le2lVRXXJsc/giphy.gif" width="230">
 
 [![Telegram: VelikiyProgrammist](https://img.shields.io/badge/Telegram-blue)](https://web.telegram.org/a/#1825145195)

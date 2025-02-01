@@ -11,8 +11,8 @@
 ```javascript
 const Misha = {
   languages: ["Python", "Java", "C"],
-  tools: ["Yolo", "cv2", "telebot", "aiogram", "disnake"],
-  achievements: ["ICPC", "Росатом", "Changellenge Сбер"],
+  tools: ["Yolo", "cv2", "telebot", "aiogram", "disnake",],
+  achievements: ["ICPC", "Mire/Atom", "Changellenge Сбер"],
   socialSkills: "Если б я имел коня — это был бы номер. Если б конь имел меня — я б наверно помер.",
   specialties: ["ML", "computer vision", "manual testing", "telegram bots"]
 }

@@ -13,12 +13,31 @@
 
 ```javascript
 const Misha = {
-  languages: ["Python", "Java", "C"],
-  tools: ["Yolo", "cv2", "telebot", "aiogram", "np", "plt", "pnd"],
-  achievements: ["ICPC", "Mire/Atom", "Changellenge Сбер"],
-  specialties: ["Computer vision", "ML", "Telegram bots", "Tracking"],
-  otherSkills: ["Guitar","English B1", ""]
+  name: "Михаил Александрович Мамылов",
+  age: 19,
+  location: "Уфа, Россия",
+  languages: ["Python","C++"],
+  tools: [
+    "YOLO", "OpenCV", "Telebot", "Aiogram", "NumPy", "Matplotlib", "Pandas", 
+    "FastAPI", "Docker", "Git", "Linux"
+  ],
+  frameworks: ["TensorFlow", "PyTorch", "SAHI", "YOLOv8"],
+  specialties: ["Computer Vision", "ML", "Telegram bots", "Tracking", "Data Science"],
+  projects: [
+    "Классификация дорожных знаков с YOLO",
+    "Трекинг автомобилей с высоты",
+    "Бот с расписанием занятий"
+  ],
+  achievements: [
+    "Стажёр BigBro (1 год)",
+    "Опыт работы в OZON.ru (1.5 года)",
+    "Участник ICPC",
+    "Прошел Яндекс Практикум по Python"
+  ],
+  otherSkills: ["Английский B2"]
 }
 ```
 
 **До новых встреч** :)
+
+P.S. Если понравилось — звезда на GitHub будет очень кстати! ⭐
